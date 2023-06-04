@@ -1381,19 +1381,16 @@ form.sign-in-form {
 }
 
 @media (max-width: 475px) {
-  .moving-text {
-    height: 30px;
-  }
-  .moving-text h2 {
-    font-size: 20px;
-  }
   nav img {
     width: 45px;
     height: 45px;
   }
   #home h2 {
-    font-size: 25px;
+    font-size: 35px;
     margin-top: 80px;
+  }
+  #home p {
+    font-size: 15px;
   }
   #about h2 {
     font-size: 20px;
